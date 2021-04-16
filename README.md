@@ -32,4 +32,4 @@ likely to be strong variables in predicting the species of a given data.
 ![image](https://user-images.githubusercontent.com/17669852/114973279-38e94880-9ed4-11eb-90a9-a663f7c9ea72.png)
 
 
-![Correlation_Matrix] (https://user-images.githubusercontent.com/17669852/114973306-4a325500-9ed4-11eb-82df-f40ff9489c20.png)
+![image](https://user-images.githubusercontent.com/17669852/114973376-764dd600-9ed4-11eb-9ff4-948b1ea1d4e6.png)
