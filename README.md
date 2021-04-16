@@ -29,4 +29,7 @@ Looking at the below correlation table, we can see that there are 3 main variabl
 length and petal width) that have a strong linear relationship with species_id. These variables are
 likely to be strong variables in predicting the species of a given data.
 
-![image](https://user-images.githubusercontent.com/17669852/114973209-1c4d1080-9ed4-11eb-88ce-6aa45a382463.png)
+![image](https://user-images.githubusercontent.com/17669852/114973279-38e94880-9ed4-11eb-90a9-a663f7c9ea72.png)
+
+
+![Correlation_Matrix] (https://user-images.githubusercontent.com/17669852/114973306-4a325500-9ed4-11eb-82df-f40ff9489c20.png)
