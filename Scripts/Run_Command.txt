@@ -1,0 +1,1 @@
+python Train_Test.py -i "..\iris_train.csv" -t "..\iris_test.csv" -n 2 -k 3
